@@ -36,7 +36,7 @@ section#header a.nav-link:hover {
 }
 #slider .img-1 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.644), rgba(0, 0, 0, 0.644)),
-    url(/Gaaga-React-Live/staticstatic/media/Slider-Image-1.1b4fa130b7c27599fc29.png);
+    url(/Gaaga-React-Live/static/media/Slider-Image-1.1b4fa130b7c27599fc29.png);
 }
 #slider .img-1,
 #slider .img-2 {
@@ -50,7 +50,7 @@ section#header a.nav-link:hover {
 }
 #slider .img-2 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.644), rgba(0, 0, 0, 0.644)),
-    url(/Gaaga-React-Live/staticstatic/media/Slider-image-2.b5abcceec2169d45ca05.jpg);
+    url(/Gaaga-React-Live/static/media/Slider-image-2.b5abcceec2169d45ca05.jpg);
 }
 #slider .content-box {
   z-index: 99;
@@ -181,7 +181,7 @@ section#departments button#uncontrolled-tab-example-tab-mobileapplications,
 section#departments button#uncontrolled-tab-example-tab-seo,
 section#departments button#uncontrolled-tab-example-tab-webapplication {
   background-image: linear-gradient(rgba(0, 0, 0, 0.836), rgba(0, 0, 0, 0.836)),
-    url(/Gaaga-React-Live/staticstatic/media/Tab-Img-1.f836f69de4628b183ddc.png);
+    url(/Gaaga-React-Live/static/media/Tab-Img-1.f836f69de4628b183ddc.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -326,7 +326,7 @@ section#slidebox {
 }
 section#creativework {
   background-image: linear-gradient(#181818f7, #181818f7),
-    url(/Gaaga-React-Live/staticstatic/media/Slider-image-2.b5abcceec2169d45ca05.jpg);
+    url(/Gaaga-React-Live/static/media/Slider-image-2.b5abcceec2169d45ca05.jpg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -500,7 +500,7 @@ section#custom-digitally .child {
 }
 section#custom-video {
   background-image: linear-gradient(#18181880, #18181880),
-    url(/Gaaga-React-Live/staticstatic/media/Video-Banner1.45a419ebc4398b079de5.png);
+    url(/Gaaga-React-Live/static/media/Video-Banner1.45a419ebc4398b079de5.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -718,7 +718,7 @@ section#testimonial .large-img img {
 }
 section#business {
   background-color: rgba(0, 0, 0, 0.943);
-  background-image: url(/Gaaga-React-Live/staticstatic/media/Counter-Bg.2ab374dcf08f64868686.png);
+  background-image: url(/Gaaga-React-Live/static/media/Counter-Bg.2ab374dcf08f64868686.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1456,9 +1456,9 @@ section#Insta-slider .text-set1 a:hover {
 @font-face {
   fallback: fallback;
   font-family: revicons;
-  src: url(/Gaaga-React-Live/staticstatic/media/revicons.e8746a624ed098489406.woff) format("woff"),
-    url(/Gaaga-React-Live/staticstatic/media/revicons.57fd05d4ae650374c8de.ttf) format("ttf"),
-    url(/Gaaga-React-Live/staticstatic/media/revicons.a77de540a38981833f9e.eot) format("ttf");
+  src: url(/Gaaga-React-Live/static/media/revicons.e8746a624ed098489406.woff) format("woff"),
+    url(/Gaaga-React-Live/static/media/revicons.57fd05d4ae650374c8de.ttf) format("ttf"),
+    url(/Gaaga-React-Live/static/media/revicons.a77de540a38981833f9e.eot) format("ttf");
 }
 .react-multi-carousel-list {
   align-items: center;
